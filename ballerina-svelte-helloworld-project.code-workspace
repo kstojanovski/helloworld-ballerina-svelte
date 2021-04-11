@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "helloworld-svelte-frontend"
+		},
+		{
+			"path": "helloworld-ballerina-backend"
+		}
+	]
+}
